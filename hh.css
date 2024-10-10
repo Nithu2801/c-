@@ -1,0 +1,24 @@
+header{
+    background-color:#b9cdd3;
+    height:50%;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content:space-around;
+}
+
+.img1{
+    position:relative;
+    z-index:1;
+}
+.img2{
+    position:relative;
+    z-index:2;
+    margin-left: -10%;
+}
+.img3{
+    position:relative;
+    z-index:3;
+    margin-left:-10%;
+}
